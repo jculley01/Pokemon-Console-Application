@@ -25,8 +25,7 @@ r : run command - this command moves forward five time units
 
 q : quit command - this command ends the game
 
-n (type) (id) x y : new object command - enter n followed by and of the objects and then specify an id number and a location to add a new object onto the board
-n cont'd : (ex. n c 3 5 5 will build a new PokemonCenter with the id of 3 and place it at (5,5) on the grid)
+n (type) (id) x y : new object command - enter n followed by and of the objects and then specify an id number and a location to add a new object onto the board (ex. n c 3 5 5 will build a new PokemonCenter with the id of 3 and place it at (5,5) on the grid)
 
 
 
